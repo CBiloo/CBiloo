@@ -6,5 +6,5 @@ je m'intéresse a vraiment tout donc y'aura plein de chose sur mon profil github
 
 Projet en cours :
 
- - Discord Custom Status ( 70% )
+ - Biloo Discord Custom Status ( 70% )
 
