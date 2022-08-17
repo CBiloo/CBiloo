@@ -1,12 +1,10 @@
 
 je m'intéresse a vraiment tout donc y'aura plein de chose sur mon profil github
 
-Discord: Biloo ♤#7683
+Discord : Biloo ♤#7683 : 963482748914384957
 
- Projet:
+ Projet :
  
- ├── Terminé:
- │   ├── XCreator
- │
  ├── En cours:
- │   ├── Blue Discord ( 10% )
+ │   ├── Discord Custom Status ( 70% )
+
