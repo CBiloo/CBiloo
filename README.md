@@ -5,6 +5,7 @@ Discord : Biloo ♤#7683 : 963482748914384957
 
  Projet :
  
- ├── En cours:
- │   ├── Discord Custom Status ( 70% )
+En cours:
+
+ - Discord Custom Status ( 70% )
 
