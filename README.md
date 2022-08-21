@@ -8,9 +8,11 @@ Completed project :
 
  - XSS-Scanner 
  - Osint-Tool
+ - Discord-Custom-Activity
  
 Ongoing project :
 
- - Discord Custom Status ( 90% )
+- No spoiler
 
-Information : There is rework in some scripts, the authors are of course displayed in the credits
+Information: There is rework in some scripts, the authors are of course displayed in the credits and there may also be repost of interesting content
+
