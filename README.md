@@ -1,10 +1,9 @@
 
-je m'intéresse a vraiment tout donc y'aura plein de chose sur mon profil github
+I'm really interested in everything so there will be a lot of things on my github profile
 
-- Discord : Biloo ♤#7683 
-- ID : 963482748914384957
+- Discord : Biloo#7683 
 
-Projet en cours :
+Ongoing project :
 
- - Biloo Discord Custom Status ( 70% )
+ - Biloo Discord Custom Status ( 90% )
 
