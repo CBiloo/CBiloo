@@ -14,5 +14,5 @@ Ongoing project :
 
 - No spoiler
 
-Information: There is rework in some scripts, the authors are of course displayed in the credits and there may also be repost of interesting content
+Information : There is rework in some scripts, the authors are of course displayed in the credits and there may also be repost of interesting content
 
